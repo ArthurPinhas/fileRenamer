@@ -1,0 +1,2 @@
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/bin/Release/net7.0/win-x64/publish/FileRenamer.pdb
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/bin/Release/net7.0/win-x64/publish/FileRenamer.exe

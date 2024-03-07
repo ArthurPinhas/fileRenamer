@@ -1,0 +1,14 @@
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/bin/Debug/net7.0/FileRenamer
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/bin/Debug/net7.0/FileRenamer.deps.json
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/bin/Debug/net7.0/FileRenamer.runtimeconfig.json
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/bin/Debug/net7.0/FileRenamer.dll
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/bin/Debug/net7.0/FileRenamer.pdb
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/FileRenamer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/FileRenamer.AssemblyInfoInputs.cache
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/FileRenamer.AssemblyInfo.cs
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/FileRenamer.csproj.CoreCompileInputs.cache
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/FileRenamer.dll
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/refint/FileRenamer.dll
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/FileRenamer.pdb
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/FileRenamer.genruntimeconfig.cache
+/Users/arthurpinhas/CodeRepos/FileRenamer/FileRenamer/obj/Debug/net7.0/ref/FileRenamer.dll
